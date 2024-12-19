@@ -1,4 +1,6 @@
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Alex94a.gmail-autocreator)](https://github.com/Alex94a/gmail-autocreator) [![Status](https://img.shields.io/badge/status-in%20development-yellow)](https://github.com/Alex94a/gmail-autocreator) [![Version](https://img.shields.io/badge/version-0.1.0-blue)](https://github.com/Alex94a/gmail-autocreator) [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/Alex94a/gmail-autocreator)
+![Visitors](https://profile-counter.glitch.me/gmail-autocreator/count.svg)
+**Visitor Count**
+
 
 # Google & YouTube Account Generation Server
 
