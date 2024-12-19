@@ -43,3 +43,12 @@ Early development version. Features and API subject to change.
 
 ## ⚠️ Примечание
 Ранняя версия разработки. Функционал и API могут измениться.
+
+
+![Visitors](https://img.shields.io/endpoint?url=https://hits.dwyl.com/Alex94a/gmail-autocreator.json)
+
+![Development Status](https://img.shields.io/badge/status-in%20development-yellow)
+
+![Version](https://img.shields.io/badge/version-0.1.0-blue)
+
+![License](https://img.shields.io/badge/license-MIT-green)
