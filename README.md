@@ -1,3 +1,5 @@
+[![Visitors](https://img.shields.io/badge/visitors-0-brightgreen)](https://github.com/Alex94a/gmail-autocreator) [![Status](https://img.shields.io/badge/status-in%20development-yellow)](https://github.com/Alex94a/gmail-autocreator) [![Version](https://img.shields.io/badge/version-0.1.0-blue)](https://github.com/Alex94a/gmail-autocreator) [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/Alex94a/gmail-autocreator)
+
 # Google & YouTube Account Generation Server
 
 **Advanced automation server for creating sustainable Google accounts and YouTube channels.** Private test versions demonstrate successful creation of accounts with high retention rate.
@@ -43,12 +45,3 @@ Early development version. Features and API subject to change.
 
 ## ⚠️ Примечание
 Ранняя версия разработки. Функционал и API могут измениться.
-
-
-![Visitors](https://img.shields.io/endpoint?url=https://hits.dwyl.com/Alex94a/gmail-autocreator.json)
-
-![Development Status](https://img.shields.io/badge/status-in%20development-yellow)
-
-![Version](https://img.shields.io/badge/version-0.1.0-blue)
-
-![License](https://img.shields.io/badge/license-MIT-green)
