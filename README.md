@@ -1,5 +1,5 @@
 ### Visitor Count
-![Visitors](https://profile-counter.glitch.me/gmail-autocreator/count.svg)
+![Visitors](https://profile-counter.glitch.me/google-automation-hub/count.svg)
 
 
 
@@ -12,8 +12,8 @@ This repository serves as the central hub for the project.
 
 ## 📂 Repositories
 
-- **[Server](https://github.com/username/GoogleGen-Server):** Backend for account creation, including APIs and task management.
-- **[Executor](https://github.com/username/GoogleGen-Executor):** Automation scripts and task runners for creating accounts and managing workflows.
+- **[Server](https://github.com/username/google-automation-server):** Backend for account creation, including APIs and task management.
+- **[Executor](https://github.com/username/google-automation-executor):** Automation scripts and task runners for creating accounts and managing workflows.
 
 ---
 
