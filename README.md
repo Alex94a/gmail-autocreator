@@ -2,9 +2,9 @@
 **Visitor Count**
 
 
-# Google & YouTube Account Generation Server
+# Google & YouTube Account Generation
 
-**Advanced automation server for creating sustainable Google accounts and YouTube channels.** Private test versions demonstrate successful creation of accounts with high retention rate.
+**Advanced automation app for creating sustainable Google accounts and YouTube channels.** Private test versions demonstrate successful creation of accounts with high retention rate.
 
 ## 🚧 Project Status
 Currently in active development. Account registration executors are under development. Closed test versions show promising results in creating accounts that pass verification and remain active.
@@ -28,7 +28,7 @@ Early development version. Features and API subject to change.
 
 # Сервер генерации аккаунтов Google и YouTube
 
-**Продвинутый сервер автоматизации для создания устойчивых аккаунтов Google и каналов YouTube.** Закрытые тестовые версии демонстрируют успешное создание аккаунтов с высоким показателем сохранности.
+**Продвинутое приложение автоматизации для создания устойчивых аккаунтов Google и каналов YouTube.** Закрытые тестовые версии демонстрируют успешное создание аккаунтов с высоким показателем сохранности.
 
 ## 🚧 Статус проекта
 В активной разработке. Исполнители для регистрации аккаунтов находятся в разработке. Закрытые тестовые версии показывают высокие результаты в создании аккаунтов, проходящих верификацию и остающихся активными.
