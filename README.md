@@ -2,48 +2,31 @@
 **Visitor Count**
 
 
-# Google & YouTube Account Generation
+# Google & YouTube Account Generation app
 
-**Advanced automation app for creating sustainable Google accounts and YouTube channels.** Private test versions demonstrate successful creation of accounts with high retention rate.
+**Advanced automation app for creating sustainable Google accounts and YouTube channels.**  
+This repository serves as the central hub for the project.
+
+---
+
+## 📂 Repositories
+
+- **[Server](https://github.com/username/GoogleGen-Server):** Backend for account creation, including APIs and task management.
+- **[Executor](https://github.com/username/GoogleGen-Executor):** Automation scripts and task runners for creating accounts and managing workflows.
+
+---
 
 ## 🚧 Project Status
-Currently in active development. Account registration executors are under development. Closed test versions show promising results in creating accounts that pass verification and remain active.
+Currently in active development. Individual components are under separate repositories for modular development.
 
-## Core Features
-- **Google Account Creation** with advanced anti-detection systems
-- **YouTube Channel Automation** (bio and branding setup)
-- SMS verification (5sim integration)
-- Proxy and fingerprint management
+## Features Overview
+- Google Account Creation
+- YouTube Channel Automation
+- Proxy and SMS verification integration
+
 
 ## Roadmap
 - Integration with additional SMS services
 - Support for public proxy sources
 - Expansion to other platform account creation
 - Additional anti-detection methods
-
-## ⚠️ Note
-Early development version. Features and API subject to change.
-
----
-
-# Сервер генерации аккаунтов Google и YouTube
-
-**Продвинутое приложение автоматизации для создания устойчивых аккаунтов Google и каналов YouTube.** Закрытые тестовые версии демонстрируют успешное создание аккаунтов с высоким показателем сохранности.
-
-## 🚧 Статус проекта
-В активной разработке. Исполнители для регистрации аккаунтов находятся в разработке. Закрытые тестовые версии показывают высокие результаты в создании аккаунтов, проходящих верификацию и остающихся активными.
-
-## Основные функции
-- **Создание аккаунтов Google** с продвинутой системой антидетекта
-- **Автоматизация YouTube-каналов** (настройка био и брендинга)
-- SMS-верификация (интеграция с 5sim)
-- Управление прокси и фингерпринтами
-
-## План развития
-- Интеграция с дополнительными SMS-сервисами
-- Поддержка прокси из открытых источников
-- Расширение на создание аккаунтов других платформ
-- Дополнительные методы антидетекта
-
-## ⚠️ Примечание
-Ранняя версия разработки. Функционал и API могут измениться.
